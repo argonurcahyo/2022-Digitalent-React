@@ -1,0 +1,5 @@
+pwd     : print work directory
+cd      : change directory
+ls      : list
+mkdir   : make directory
+rm      : remove

@@ -24,7 +24,7 @@ const maaap = new Map();
 maaap.set("Indonesia", "Jakarta");
 maaap.set("UK", "London");
 maaap.set("Brazil", "Brasilia");
-maaap.set("Argentina", "Rio de Janeiro");
+maaap.set("Argentina", "Buenos Aires");
 
 console.log(maaap.get("Indonesia"));
 console.log(maaap);

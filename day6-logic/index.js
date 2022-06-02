@@ -1,5 +1,5 @@
 // Ternary function
-<<<<<<< HEAD
+
 // const age = 10;
 
 // let message;
@@ -29,7 +29,7 @@ for (let i = 1; i <= 100; i++) {
   }
   console.log(txt);
 }
-=======
+
 const age = 10;
 
 let message;
@@ -37,4 +37,3 @@ let message;
 message = age>=16 ? "You can drive" : "You cannot drive";
 
 console.log(message);
->>>>>>> 10c504174cea8540e5550267bb6b2014a9a629fe

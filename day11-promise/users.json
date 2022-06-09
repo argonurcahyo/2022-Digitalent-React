@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Darwin Nunez",
+        "age": 22,
+        "position": "CF",
+        "nationality": "Uruguay",
+        "club": "Benfica"
+    },
+    {
+        "name": "Erling Haaland",
+        "age": 22,
+        "position": "CF",
+        "nationality": "Norway",
+        "club": "Manchester City"
+    }
+]
